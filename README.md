@@ -1,3 +1,7 @@
+A library system (ALS) is required to keep records of books and provide services for library members to borrow, return, and reserve books. The library is not a typical library that you may be aware of. It only has 50 books available for loan. It intends to increase the number of books for circulation in twelve months’ time, but you are told this is not a concern for this project. 
+ 
+To facilitate the construction of ALS, the following functions have been gathered from the library administrators: 
+
 1.  Membership Creation 
 •	To be able to use the library facilities (such as borrowing or reserving books), an individual must become a library member.  
 •	Information required to be a member includes membership id (a unique alphanumeric id that distinguishes every member e.g., A101A, A901I, etc.), name (e.g., Tan Jia Yu, Joan Lim, Simon Li Thales, etc.), faculty (e.g., Computing, Engineering, Science, etc.), phone number (e.g., 91234567, 81093487, 92054981, etc.), email address (e.g., tanjiayu@als.edu, jlim@als.edu, etc.). 
